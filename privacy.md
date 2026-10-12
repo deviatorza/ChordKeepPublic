@@ -49,4 +49,4 @@ If this policy changes, the new version will be published here with a new date. 
 
 ## Contact
 
-Questions about this policy: support@chordkeep.com
+Questions about this policy: deviatorapps@gmail.com
