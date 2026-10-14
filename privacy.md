@@ -4,7 +4,7 @@ title: Privacy policy
 
 # ChordKeep Privacy Policy
 
-Last updated: 13 October 2026
+Last updated: 14 October 2026
 
 This policy explains what happens to your information when you use ChordKeep. The short version: **your songs stay on your device, and we never see them.**
 
@@ -41,7 +41,7 @@ Deleting a song in ChordKeep removes it from your device. Uninstalling ChordKeep
 
 ## Safety
 
-ChordKeep doesn't track you or collect any personal information about you." Then Musicians of all ages: "ChordKeep is made for musicians of every age, including children. Because it collects no personal information from anyone, it collects none from children either
+ChordKeep doesn't track you or collect any personal information about you." ChordKeep is made for musicians of every age, including children. Because it collects no personal information from anyone, it collects none from children either
 
 ## Changes to this policy
 
